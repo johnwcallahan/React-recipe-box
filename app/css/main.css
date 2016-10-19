@@ -1,0 +1,45 @@
+body {
+  background-color: #a5d6a7;
+}
+
+.quanity {
+  font-size: 14px;
+  font-style: italic;
+}
+
+.recipieName {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.ingredient {
+  font-size: 16px;
+}
+
+.quanity, .ingredient {
+  padding: 5px;
+}
+
+.row {
+  margin-bottom: 0;
+}
+
+#addIngredientButton {
+  margin-top: 20px;
+}
+
+.remove {
+  font-size: 17px;
+  position: relative;
+  color: #616161;
+  margin-top: 7px;
+}
+
+.edit {
+  color: #616161;
+}
+
+.edit:hover {
+  color: #bdbdbd;
+}
+
