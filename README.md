@@ -11,6 +11,4 @@ Created as a project for FreeCodeCamp, fulfilling the following user stories:
 5. I can delete these recipes.
 6. All new recipes I add are saved in my browser's local storage. If I refresh the page, these recipes will still be there.
 
-Built with React, HTML, CSS, & JavaScript. 
-
 *Live demo: http://codepen.io/lvb_111/full/QKyNPa/*
